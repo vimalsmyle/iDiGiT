@@ -1,0 +1,30 @@
+{
+   "lastReadingDetails":{
+      "readingID":72,
+      "miuID":"9888",
+      "type":1,
+      "sync_time":"00:00:05",
+      "sync_interval":1440,
+      "pre_post_paid":0,
+      "bat_volt":93.0,
+      "valve_configuration":1,
+      "valve_live_status":1,
+      "credit":0.0,
+      "tariff":20.0,
+      "emergency_credit":0.0,
+      "days_elapsed_after_valve_trip":0,
+      "reading":77.0,
+      "status":{
+         "door_open":0,
+         "magnetic":0,
+         "schedule_disconnect":0,
+         "rtc_fault":0,
+         "low_bat":0,
+         "low_bal":0
+      },
+      "transaction_id":0,
+      "cmd_status":0,
+      "topupSMS":false,
+      "logDate":"2021/09/08 13:07:13"
+   }
+}
